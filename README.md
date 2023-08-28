@@ -41,8 +41,7 @@ PPS:
 - [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
 ---
-[Example Report 1](weekly-reports/example-report-1.md)
+Week 1
 ---
 
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
-
+Test
