@@ -17,7 +17,7 @@ I think Rhino will continue to integrate more intuitive tools, making it more us
 Week of 09/04 Report
 ---
 # Reflections
-I got Covid this week and wasn't able to come to class. In my free time I explored Rhino and Grasshopper by following YouTube tutorials. Some useful tutorials I found online: 
+I got Covid this week and wasn't able to come to class. In my free time I explored Rhino and Grasshopper by following YouTube tutorials. Some useful tutorials I found online: \n
 https://www.youtube.com/watch?v=zDGO_FG8UOw&t=322s&ab_channel=TheDifferentDesign
 https://www.youtube.com/watch?v=QvBxQTir5TY&t=29s&ab_channel=ProvingGround
 https://www.youtube.com/watch?v=YderMrJ5Ol0&t=232s&ab_channel=PhilippGalvanDesign
