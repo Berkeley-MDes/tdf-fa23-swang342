@@ -17,14 +17,14 @@ I think Rhino will continue to integrate more intuitive tools, making it more us
 Week of 09/04 Report
 ---
 # Reflections
-I got Covid this week and wasn't able to come to class. In my free time I explored Rhino and Grasshopper by following YouTube tutorials. Some useful tutorials I found online:    
+I got Covid this week and wasn't able to come to class. In my free time, I explored Rhino and Grasshopper by following along YouTube tutorials. Here are some useful tutorials I found online:    
 https://www.youtube.com/watch?v=zDGO_FG8UOw&t=322s&ab_channel=TheDifferentDesign     
 https://www.youtube.com/watch?v=QvBxQTir5TY&t=29s&ab_channel=ProvingGround    
 https://www.youtube.com/watch?v=YderMrJ5Ol0&t=232s&ab_channel=PhilippGalvanDesign    
 https://www.youtube.com/watch?v=o3W7V9llWfw&t=190s&ab_channel=Shimayama   
 
 # Speculations
-
+AI will not replace designers but will amplify their capabilities. It will be a co-designer, assisting in brainstorming, testing, and even challenging human designers to push boundaries. AI can generate thousands of design variations based on certain criteria, giving designers a broad spectrum of options to choose from. This means that instead of starting from scratch, designers can refine AI-generated proposals. For example, I provide the phone I use and the car I drive, then AI can auto generate a car phone holder for me! AI will also bring empathy into computational design, understanding the end-user on a deeply personal level, allowing for designs that cater to emotional as well as functional needs.
 
 ---
 Week of 09/11 Report
