@@ -19,9 +19,9 @@ Week of 09/04 Report
 # Reflections
 I got Covid this week and wasn't able to come to class. In my free time I explored Rhino and Grasshopper by following YouTube tutorials. Some useful tutorials I found online:    
 https://www.youtube.com/watch?v=zDGO_FG8UOw&t=322s&ab_channel=TheDifferentDesign     
-https://www.youtube.com/watch?v=QvBxQTir5TY&t=29s&ab_channel=ProvingGround
-https://www.youtube.com/watch?v=YderMrJ5Ol0&t=232s&ab_channel=PhilippGalvanDesign
-https://www.youtube.com/watch?v=o3W7V9llWfw&t=190s&ab_channel=Shimayama
+https://www.youtube.com/watch?v=QvBxQTir5TY&t=29s&ab_channel=ProvingGround    
+https://www.youtube.com/watch?v=YderMrJ5Ol0&t=232s&ab_channel=PhilippGalvanDesign    
+https://www.youtube.com/watch?v=o3W7V9llWfw&t=190s&ab_channel=Shimayama   
 
 # Speculations
 
