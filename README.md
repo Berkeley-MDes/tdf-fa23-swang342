@@ -32,7 +32,8 @@ Week of 09/11 Report
 # Reflections
 This week I was mainly working on Project 1. The journey of this project has been both challenging and rewarding. I was able to learn something new every day and this was my first time using a 3D printer! Leveraging Rhino and Grasshopper, the project successfully demonstrated the profound impact computational design can have on product evolution. I pursued this project at the challenge level 02-Platypus. I chose this level because it’s slightly more challenging for me than the basic, and it can push my boundaries out of my comfort zone to explore new territories of design. Transitioning to Rhino, with prior experience in tools like AutoCAD and SolidWorks, was easier than I expected. The real challenge for me was learning Grasshopper. I’ve never used a visual programming software before, and I took some time to fully understand and interact with the sea of components. This challenge aligned well with my chosen Platypus level as it demanded not just the modification of the existing inputs, but also the integration of a new design, in my case, the clip on the back of the holder. 
 ![Demo](project1/demo.png)
-![Final Product](project1/8651694668147_2.png)
+![Final Product](project1/Product1.png)
+![Process](project1/Screen_Shot_2023-09-11_at_8.43.24_PM.png)
 
 # Speculations
 The designed phone holder facilitates seamless interaction between humans and their environment - it allows me to view my screen while driving - and it’s just an surface level example of technology's role in enhancing day-to-day experiences. With computational design, spaces and products can be designed to adapt more naturally to human needs and preferences. This can lead to environments that change in real-time according to human presence, optimizing comfort, utility, and aesthetics. 
