@@ -42,7 +42,6 @@ Week of 09/18 Report
 ---
 # Reflections
 This week, we were introduced to Particle Photon 2 and experimented with basic wirings, such as light an LED and using a photoresistor. 
-![Photoresistor](project1/demo.png)![Final Product](project1/Product1.png)   
 
 # Speculations
 As technology continues to evolve, one can speculate that tools like the Particle Photon will become integral in creating interconnected systems, enhancing everyday life. It's exhilarating to think that today's simple LED experiment could be the precursor to future smart homes, wearable technologies, or even urban infrastructure that responds dynamically to environmental changes.
