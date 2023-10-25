@@ -36,3 +36,54 @@ This week I was mainly working on Project 1. The journey of this project has bee
 
 # Speculations
 The designed phone holder facilitates seamless interaction between humans and their environment - it allows me to view my screen while driving - and it’s just an surface level example of technology's role in enhancing day-to-day experiences. With computational design, spaces and products can be designed to adapt more naturally to human needs and preferences. This can lead to environments that change in real-time according to human presence, optimizing comfort, utility, and aesthetics. 
+
+---
+Week of 09/18 Report
+---
+# Reflections
+This week, we were introduced to Particle Photon 2 and experimented with basic wirings, such as light an LED and using a photoresistor. 
+![Photoresistor](project1/demo.png)![Final Product](project1/Product1.png)   
+
+# Speculations
+As technology continues to evolve, one can speculate that tools like the Particle Photon will become integral in creating interconnected systems, enhancing everyday life. It's exhilarating to think that today's simple LED experiment could be the precursor to future smart homes, wearable technologies, or even urban infrastructure that responds dynamically to environmental changes.
+
+---
+Week of 09/25 Report
+---
+# Reflections
+This week we were first introduced to our group project and started collaborating on the project. At first we came up with a lot of ideas, but given the limited time and the lack of technical experience across the group, we narrowed down our ideas to the printer + shredder combo. We were a diverse group with varied levels of technical expertise, but that only added richness to our discussions. The printer + shredder combo idea arose from our collective desire to address both convenience and sustainability.
+# Speculations
+Given the growing emphasis on data protection and the need for mental health awareness across campus, we speculate that our printer + shredder combo could be a game-changer for the graduate student mental health issue. The product encourages spreading positivity amoung the community, as well as raising awareness for the general public.
+
+---
+Week of 10/02 Report
+---
+# Reflections
+This week, we changed our idea. We chose the LED display over the printer. We also decided to have students tear up the paper by hand. We did this because we didn't have enough time to make the shredder gear and there is very limited documentation online for connecting a thermal printer to Photon 2. I think this is an important decision for us because it saved a lot of time, or we could potential find ourselves in a dead-end. We also devided up the work, with two of us working on the LED display, and the rest working on photon communication.
+
+# Speculations
+This project made me wonder - how many of us are experiencing negative thoughts everyday as we walk in and out of the buildings? How do people deal with stress and anxiety? Do people prioritize mental health when they are facing tight deadlines and peer pressure? I think it would be really meaningful if something like what we are working on can be found in all of the building across the campus. 
+
+---
+Week of 10/09 Report
+---
+# Reflections
+Based on our observations and findings, we decided to design an “emotional vending machine.” Users will jot down their negative feelings on provided post-it notes, put them into the box slot, and in return, receive cheerful and uplifting messages displayed on the OLED board to lift their spirits. This week we are finishing up Project 2. We were finally able to nail down the direction that we are heading towards - the digital LED screen instead of an actual physical printer. 
+# Speculations
+In future development, I would love to look more into connecting a physical printer with photon 2 as it creates a more holistic and tangible experience. 
+
+---
+Week of 10/16 Report
+---
+# Reflections and Speculations
+This week we finally finished Project 2! I'm grateful for the experience with this project. Some reflections and speculations: 
+Message Personalization: If the vending machine could be incorporated with AI capabilities in the future, it could generate personalized uplifting messages based on the content of the notes. This would provide a more targeted and meaningful interaction for the user.
+Safety Concerns: On the downside, there may be concerns about users writing potentially harmful or distressing messages. There would need to be a way to address this, perhaps by incorporating an alert system or monitoring feature.
+Authenticity and Repetition: While the uplifting messages can be heartening the first few times, there may be diminishing returns with repeated interaction. Ensuring the messages remain fresh, authentic, and relevant would be crucial.
+Privacy Concerns: Since emotions are private and personal, some might feel uncomfortable sharing them in a public space, even if it's anonymous. Measures to ensure confidentiality and promote a safe environment around the machine would be important. For future development, we can figure out a mechanism that prevents the users from accessing the pieces of paper in the box.
+Team Work: The overall group-work experience was very positive, and everyone contributed a lot to the project. Each member brings unique insights, and our collective expertise shaped the project's success.
+Holistic Approach to Well-being: The vending machine can be part of a larger initiative to promote graduate students' mental well-being. Encouraging other methods like counseling, peer support groups, or stress-relieving activities would provide a comprehensive approach to mental health.
+
+
+
+
